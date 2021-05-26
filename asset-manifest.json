@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rocheknows.github.io/csb-qkhjz/static/css/main.ea408280.chunk.css",
+    "main.js": "https://rocheknows.github.io/csb-qkhjz/static/js/main.efe412c2.chunk.js",
+    "main.js.map": "https://rocheknows.github.io/csb-qkhjz/static/js/main.efe412c2.chunk.js.map",
+    "runtime-main.js": "https://rocheknows.github.io/csb-qkhjz/static/js/runtime-main.7a1a804c.js",
+    "runtime-main.js.map": "https://rocheknows.github.io/csb-qkhjz/static/js/runtime-main.7a1a804c.js.map",
+    "static/js/2.157dd0a0.chunk.js": "https://rocheknows.github.io/csb-qkhjz/static/js/2.157dd0a0.chunk.js",
+    "static/js/2.157dd0a0.chunk.js.map": "https://rocheknows.github.io/csb-qkhjz/static/js/2.157dd0a0.chunk.js.map",
+    "index.html": "https://rocheknows.github.io/csb-qkhjz/index.html",
+    "static/css/main.ea408280.chunk.css.map": "https://rocheknows.github.io/csb-qkhjz/static/css/main.ea408280.chunk.css.map",
+    "static/js/2.157dd0a0.chunk.js.LICENSE.txt": "https://rocheknows.github.io/csb-qkhjz/static/js/2.157dd0a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a1a804c.js",
+    "static/js/2.157dd0a0.chunk.js",
+    "static/css/main.ea408280.chunk.css",
+    "static/js/main.efe412c2.chunk.js"
+  ]
+}
